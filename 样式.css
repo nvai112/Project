@@ -1,0 +1,231 @@
+*{
+	padding:opx;
+	margin:0px;}
+.box{
+	width:100%;
+	height:1000px;
+	background:no-repeat center center fixed;
+	font-family:"微软雅黑 Light";
+	overflow:hidden;}
+.box a{
+	line-height:2.5em;
+	}	
+.box .text h2{
+	font-weight:400px;
+	font-size:36px;
+	color:#333;
+	line-height:1.6em;}
+.box .text p{
+	font-size:16px;
+	color:#333;
+	line-height:1.8em;
+	margin-top:25px;}
+.box .text a{
+	font-size:16px;
+	color:#ff6700;
+	text-decoration:none;}
+.box .text .price{
+	color:#F00;
+	font-size:14px;
+	margin-top:30px;
+	margin-bottom:20px;}
+.box .text .price span{
+	font-size:36px;}
+.box1{
+	background-image:url(images/h-12.jpg);}
+.box1 .text{
+	margin-left:20%;
+	margin-top:20%;}
+.box2{
+	background-image:url(images/h-8.jpg);}
+.box2 .text{
+	margin-left:45%;
+	margin-top:2%;}
+.box3{
+	background-image:url(images/h-13.jpg);}
+.box3 .text{
+	color:rgba(51,51,51,1);
+	margin-left:10%;
+	margin-top:40%;}
+.box4{
+	background:#666 url(images/bg.png) no-repeat center bottom;}
+.box4 .text{
+	margin-left:8%;
+	margin-top:40%;}
+.box4 a{
+	line-height:2.2em;}
+.box5{
+	background-image:url(images/h-24.jpg);}
+.box5 .text{
+	margin-left:15%;
+	margin-top:20%;}
+.box5 a{
+	line-height:2.2em;}
+.box6{
+	background-image:url(images/h-21.jpg);}
+.box6 .text{
+	margin-left:5%;
+	margin-top:40%;}
+.box6 a{
+	line-height:4.2em;}
+.box8{
+	background-color:rgba(236,236,236,1);
+	height:850px;}
+.box8 .text{
+	background-color:rgba(255,255,255,1);
+	width:57.42188%;
+	height:51.18056%;
+	padding:50px;
+    margin-top:10%;
+	}
+.box8 .inbox{
+	border: 1px solid #ddd6c3;
+	width:95%;
+	height:90%;
+	margin-top:3%}
+.line-bar{
+	margin: 25px auto;
+	width: 105px;
+    margin: 35px auto;
+    border-bottom: 2px solid #eee;}
+.box8 .text h2{
+	margin-top:5%;}
+.outbox{
+	width:100%;
+	height:753.99px;
+	background-color:#FFFFCC;}
+.inbox1,.inbox2,.inbox3,.inbox4,.inbox5,.inbox6,.inbox7,.inbox8,.inbox9,.inbox10,.inbox11,.inbox12{
+	width:315.8px;
+	height:251.33px;
+	background-color:#333333;
+	}
+.inbox1{
+	float:left;}
+.inbox2{
+	background-color:#1f1f1f;
+	float:left;}
+.inbox3{
+	float:left;
+	background-color:#252525;}
+.inbox4{
+	float:right;
+	background-color:#1f1f1f;}
+.inbox5{
+	float:left;
+	background-color:#252525;}
+.inbox6{
+	background-color:#1f1f1f;
+	float:left;}
+.inbox7{
+	float:left;
+	background-color:#1f1f1f;}
+.inbox8{
+	float:right;
+	background-color:#333333;}
+.inbox9{
+	float:left;
+	background-color:#1f1f1f;}
+.inbox10{
+	background-color:#333333;
+	float:left;}
+.inbox11{
+	float:left;
+	background-color:#1f1f1f;}
+.inbox12{
+	float:right;
+	background-color:#252525;}
+.fbox{
+	width:720px;
+    height:350px;
+	background-color:#313131E6;
+	float:left;
+	margin-top:-545px;
+	margin-left:270px;}
+.fbox h2{
+	color:#FFFFFF;
+	margin-top:70px;
+	font-size:36px;}
+.fbox p{
+	color:#FFFFFF;
+	margin-top:20px;}
+.fbox a{
+	font-size:16px;
+	color:#ff6700;
+	text-decoration:none;
+	line-height:4em;}
+.nav{
+	width:100%;
+	height:60px;
+	background-color:rgba(255,255,255,1);
+	background:repeat fixed;
+}
+ul{
+	list-style:none;}
+.nav ul li{
+	float:right;
+	margin-top:10px;}
+.nav ul a{
+	display:block;
+	width:60px;
+	height:15.33px;
+	text-align:center;
+	line-height:40px;
+	color:rgba(0,0,0,1);
+	text-decoration:none;
+	font-size:14px;
+	font-family:"微软雅黑 Light";
+	float:left;}
+.nav ul li span{
+	display:inline-block;
+	float:left;}
+.nav a:hover{
+	color:#ff6700;}
+.sj1,.sj2,.sj3{
+	float:left;}
+.sj1{
+	margin-left:400px;}
+.sj2{
+	margin-left:150px;}
+.sj3{
+	margin-left:150px;}
+.ys{
+    font-size: 19px;
+    color: #212121;
+	margin-top: 50px;
+    line-height: 25px;}
+.box9 .text p{
+	font-size: 12px;
+    line-height: 20px;
+    margin-top: 15px;
+    color: #666666;}
+.box9 .ys span{
+	color: #eee;
+	display:inline-block;}
+.jin{
+	width:16px;
+	height:16px;
+    border-radius: 50%;
+	background: #e0cd9b;
+	margin-left:50px;}
+.hui{
+	width:16px;
+	height:16px;
+    border-radius: 50%;
+	background: #e8e8e8;
+	margin-left:20px;}
+.hei{
+	width:16px;
+	height:16px;
+    border-radius: 50%;
+	background: #2d2d2d;
+	margin-left:20px;}
+.fen{
+	width:16px;
+	height:16px;
+    border-radius: 50%;
+	background: #f5cae8;
+	margin-left:20px;}
+.jin,.hui,.hei,.fen{
+	float:left;}
+.yuan{
+	margin-top: 20px;}
